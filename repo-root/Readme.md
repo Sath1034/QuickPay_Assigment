@@ -3,7 +3,7 @@ Student Name: Shyamala Annie Sathwika
 Student ID: bitsom_ftai_2601298
 
 
-GitHub Repository: https://github.com/Sath1034/QuickPay_Assignment
+GitHub Repository: https://github.com/Sath1034/QuickPay_Assigment
 
 Short Run Instructions
 To review or execute the analysis in this repository, follow these steps:

@@ -1,0 +1,7 @@
+merchant_name,Total transactions,High risk count,Total volumn (USD),Risk rate (%)
+Alpha Mart,11,2,41204.82,0.1818181818
+Beta Stores,11,5,42048.19,0.4545454545
+City Pharma,2,0,8000.00,0
+Delta Travels,4,1,14600.00,0.25
+Eco Home,2,1,9400.00,0.5
+Grand Total,30,9,115253.01,0.3

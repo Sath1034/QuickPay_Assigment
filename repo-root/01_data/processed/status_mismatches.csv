@@ -1,0 +1,2 @@
+transaction_id,issue_type,ledger_amount_usd,gateway_amount_usd,ledger_status,gateway_status
+R005,status_mismatch,7200.0,7200.0,success,failed

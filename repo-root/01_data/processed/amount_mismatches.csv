@@ -1,0 +1,3 @@
+transaction_id,issue_type,ledger_amount_usd,gateway_amount_usd,ledger_status,gateway_status
+R002,amount_mismatch,850.0,900.0,success,success
+R008,amount_mismatch,640.0,600.0,success,success
